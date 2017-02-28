@@ -1,16 +1,5 @@
-Trace files' test-cases
+A clone of malloc. 
 
-Test0:
-Allocate and free memory
+Allocate your memory and free it using this impressive tool!
 
-Test1:
-Free memory that is not last in line
-
-Test2:
-Free memory that is not first in line
-
-Test3:
-Free memory that has allocated blocks around it
-
-Test4:
-Free memory that has free blocks around it
+Project for Operating Systems at Reykjavik University
